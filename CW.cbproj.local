@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.262,C:\Users\Рауф\Desktop\CR\MainModule.dfm=C:\Users\Рауф\Desktop\CR\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.564,C:\Users\Рауф\Desktop\CR\Main.cpp=C:\Users\Рауф\Desktop\CR\MainModule.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.702,C:\Users\Рауф\Desktop\курсовая билдер\2\Project1.cbproj=C:\Users\Рауф\Desktop\курсовая билдер\2\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.931,C:\Users\Рауф\Desktop\курсовая билдер\2\Project1.cbproj=C:\Users\Рауф\Desktop\курсовая билдер\2\пров\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.045,C:\Users\Рауф\Desktop\курсовая билдер\2\Project1.cbproj=C:\Users\Рауф\Desktop\курсовая билдер\2\пров\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.991,C:\Users\Рауф\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Рауф\Desktop\курсовая билдер\2\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.991,C:\Users\Рауф\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Рауф\Desktop\курсовая билдер\2\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.564,C:\Users\Рауф\Desktop\CR\Main.h=C:\Users\Рауф\Desktop\CR\MainModule.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.564,C:\Users\Рауф\Desktop\CR\Main.dfm=C:\Users\Рауф\Desktop\CR\MainModule.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.991,C:\Users\Рауф\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Рауф\Desktop\курсовая билдер\2\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.703,=C:\Users\Рауф\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.105,C:\Users\Рауф\Desktop\курсовая билдер\2\Project1.cbproj=C:\Users\Рауф\Desktop\курсовая билдер\2\courcework.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.024,C:\Users\Рауф\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Рауф\Desktop\курсовая билдер\2\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.985,C:\Users\Рауф\Desktop\курсовая билдер\2\Project1PCH3.h=C:\Users\Рауф\Desktop\курсовая билдер\2\пров\Project1PCH2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.057,C:\Users\Рауф\Desktop\курсовая билдер\2\Project1PCH3.h=C:\Users\Рауф\Desktop\курсовая билдер\2\courceworkPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.403,C:\Users\Рауф\Desktop\курсовая билдер\2\пров\Project1.cbproj=C:\Users\Рауф\Desktop\курсовая билдер\2\пров\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.262,C:\Users\Рауф\Desktop\CR\MainModule.cpp=C:\Users\Рауф\Desktop\CR\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.262,C:\Users\Рауф\Desktop\CR\MainModule.h=C:\Users\Рауф\Desktop\CR\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.531,=C:\Users\Рауф\Documents\Embarcadero\Studio\Projects\Project1PCH2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.937,C:\Users\Рауф\Documents\Embarcadero\Studio\Projects\Project1PCH2.h=C:\Users\Рауф\Desktop\курсовая билдер\2\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.858,C:\Users\Рауф\Desktop\курс-я\вариант оформления\CWPCH1.h=C:\Users\Рауф\Desktop\курс-я\вариант оформления\courceworkPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.874,C:\Users\Рауф\Desktop\курс-я\вариант оформления\CW.cbproj=C:\Users\Рауф\Desktop\курс-я\вариант оформления\courcework.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.872,C:\Users\Рауф\Desktop\курсовая билдер\2\Project1PCH1.h=C:\Users\Рауф\Desktop\курсовая билдер\2\пров\Project1PCH2.h</Transaction>
+  </Transactions>
+</BorlandProject>
